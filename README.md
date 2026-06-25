@@ -23,6 +23,16 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache ZooKeeper](https://img.shields.io/badge/Apache_ZooKeeper-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Qdrant](https://img.shields.io/badge/Qdrant-181730?style=for-the-badge&logo=qdrant&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-130C49?style=for-the-badge&logo=weaviate&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 
 
 ### ⚡ Backend & APIs
