@@ -14,9 +14,12 @@ I'm passionate about bridging the gap between software algorithms and the physic
 
 ##  Featured Projects
 
-* **Motor Anomaly Detection (B2B SaaS):** Built an end-to-end system integrating edge hardware telemetry with a FastAPI backend to detect motor anomalies in real-time.
-* **Smart Water Management System:** Developed an ML and sensor-based solution for remote water quality and leakage monitoring (Smart India Hackathon).
-* **Autonomous Robotics:** Engineered custom micromouse and line-following robots, implementing sensor arrays and PID control on microcontrollers. 
+* **FinRAG-Orchestrator :**
+Intelligent finance chatbot API using Gemini AI + semantic caching. Converts LLM responses into reusable templates — repeat queries are served ~100x faster with personalized user data from database.
+* **Micromouse :**
+A C++ based autonomous maze-solver bot that implements dynamic graph traversal algorithms(flood fill algorithm) and PID control on an edge device (ESP32) to calculate the shortest path dynamically.
+* **Watchman-Real-Time-ML-Anomaly-Detection :**
+A log analysis tool that uses machine learning to automatically detect errors and monitor system health in real-time.
 
 ##  What I'm Currently Up To
 
