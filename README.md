@@ -1,9 +1,6 @@
 # Hi there, I'm Abhishek 👋
 
-> ML Enthusiast | Building intelligent systems with Python, Deep Learning & MLOps
-
----
-
+> Engineering Undergrad @ NIT Jamshedpur | Software & ML Developer
 ##  Tech Stack
 
 ### Languages
