@@ -1,6 +1,7 @@
 # Hi there, I'm Abhishek 👋
 
-> Engineering Undergrad @ NIT Jamshedpur | Software & ML Developer
+> Engineering Undergrad @ NIT Jamshedpur | Software & ML Developer.
+
 I'm passionate about bridging the gap between software algorithms and the physical world. My focus lies in deep learning, MLOps, and systems programming, alongside a strict daily commitment to data structures and algorithms.
 ##  Tech Stack
 
